@@ -1,0 +1,4 @@
+*.~
+client/*.wav
+client/say
+api/say.pb.go
